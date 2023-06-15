@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @paulresdat
-- 👀 I’m interested in programming and .NET
-- 🌱 I’m currently learning lots of different things. :D
+- 👋 Hi, I’m @paulresdat, I'm a programmer at Resource Data.  I like food and wine that warms the belly, sound that rattles the bones and solutions that absolve problems.
+- 👀 I’m interested in C#, .NET, Python, and of course best practices and quality architecture/design principles that makes software sparkle.
+- 🌱 I’m currently learning Rust. :D
 - 💞️ I’m looking to collaborate on whatever comes next.
 - 📫 How to reach me: by email or my work number
 
